@@ -19,7 +19,7 @@
 ### 🧩 My Projects
 | Project | Description | Live Demo | Code |
 |----------|--------------|-----------|------|
-| 🌐 **Portfolio Website** | My first hand-coded personal portfolio | [Live](https://your-portfolio-link.vercel.app/) | [Repo](https://github.com/codemuhammadnouman/portfolio) |
+| 🌐 **Portfolio Website** | My first hand-coded personal portfolio | [Live](https://codemuhammadnouman.github.io/portfolio) | [Repo](https://github.com/codemuhammadnouman/portfolio) |
 | 🧱 **HTML Landing Page** | Practice project for structure and layout | Coming Soon | Coming Soon |
 
 ---
