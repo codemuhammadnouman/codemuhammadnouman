@@ -1,29 +1,5 @@
 # 👋 Hi, I'm Muhammad Nouman Ali  
 
-🚀 **Front-End Developer (In Training)**  
-🎓 Learning through the [Meta Front-End Developer Program on Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
-🌱 Currently mastering **HTML, CSS, JavaScript, and React**  
-📍 Based in Multan, Pakistan  
-💻 Passionate about clean design, responsive layouts, and modern web development  
-
----
-
-### 🧠 What I’m Learning
-- HTML5 & CSS3 (Responsive Layouts, Flexbox, Grid)
-- JavaScript (DOM, Events, ES6)
-- React (Components, Props, State – In Progress)
-- Git & GitHub (Version Control, Collaboration)
-
----
-
-### 🧩 My Projects
-| Project | Description | Live Demo | Code |
-|----------|--------------|-----------|------|
-| 🌐 **Portfolio Website** | My first hand-coded personal portfolio | [Live](https://codemuhammadnouman.github.io/portfolio) | [Repo](https://github.com/codemuhammadnouman/portfolio) |
-| 🧱 **HTML Landing Page** | Practice project for structure and layout | Coming Soon | Coming Soon |
-
----
-
 ### ⚙️ Tech Stack
 **Languages:** HTML, CSS, JavaScript  
 **Frameworks:** React (Learning)  
