@@ -28,7 +28,7 @@
 ---
 
 ## ⌨️ In Action
-<img src="gif/nouman.gif" width="480" />
+<img src="https://raw.githubusercontent.com/codemuhammadnouman/codemuhammadnouman/main/gif/nouman.gif" width="480" />
 
 ---
 
