@@ -1,14 +1,75 @@
-<p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=codemuhammadnouman&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
+## Hi there 👋
 
-<p align="center">
-  <!-- Row of icons -->
-  <img src="nouman.png" alt="Nouman" width="50" style="margin: 5px;">
-  <img src="nouman1.png" alt="Nouman1" width="50" style="margin: 5px;">
-  <img src="nouman2.png" alt="Nouman2" width="50" style="margin: 5px;">
-  <img src="nouman3.png" alt="Nouman3" width="50" style="margin: 5px;">
-</p>
+<!--
+**codemuhammadnouman/codemuhammadnouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1 align="center">Hi, I'm Muhammad Nouman 👋</h1>
+
+<h3 align="center">Aspiring Frontend Developer • Learning HTML, CSS, JavaScript</h3>
+
+---
+
+## 🚀 About Me
+I'm a self-learning frontend developer focused on building real projects and improving my core web development skills every day.
+
+Currently learning:
+- 🔹 HTML (structure & clean markup)
+- 🔹 CSS (responsive UI, layouts, styling)
+- 🔹 JavaScript (fundamentals & DOM)
+- 🔹 Git & GitHub for version control
+
+I’m building small, consistent projects to grow my GitHub portfolio step by step.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- Responsive Web Design  
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+---
+
+## 📌 Current Goals (2026)
+- Build 10+ small frontend projects  
+- Become confident with JavaScript fundamentals  
+- Create clean, consistent GitHub repos with README files  
+- Prepare for real-world frontend development in 2027  
+
+---
+
+## 📂 Featured Repositories (Coming Soon)
+I’ll be uploading:
+- 🌐 Landing Pages  
+- 🎨 UI Components  
+- 📱 Responsive Websites  
+- ⚡ JavaScript Mini Projects  
+
+Stay tuned — consistent updates every week.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/codemuhammadnouman](https://www.linkedin.com/in/codemuhammadnouman)
+
+---
+
+### ⭐ “One step every day builds the developer you want to become.”
