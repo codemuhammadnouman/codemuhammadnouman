@@ -1,6 +1,6 @@
 Hi, I’m Muhammad Nouman 👋
 
-I’m a Software Engineering Learner | Backend & Systems
+I’m a Backend & AI Engineering Track | Systems, APIs, Databases
 
 Tech:
 HTML, CSS, JavaScript, Git
